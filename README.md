@@ -1,1 +1,3 @@
 # Challenge-5
+
+For challenge 5, we are tasked with developing a daily planner for a typical 9-5 workday. This planner will use the web API Moment.js to help us highlight and track the current day and time, as well as the current hour of the day in our planner. It will tell highlight the current hour in red, the past hours in grey and future hours in green. In addition, it will allow users to refresh the page, if needed, to better keep track of their information using local storage. 
