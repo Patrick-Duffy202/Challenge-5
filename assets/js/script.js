@@ -23,9 +23,7 @@ $(".saveBtn").on("click", function (event) {
   localStorage.setItem(event.target.attributes[0].value, eventItem);
 });
 
-function getInfo() {
-  return localStorage.getItem(event.target.attributes[0].value, eventItem);
-};
+
  
 
 
